@@ -1,0 +1,11 @@
+/Users/ellieash/workspace/planheist/bin/Debug/netcoreapp3.0/planheist
+/Users/ellieash/workspace/planheist/bin/Debug/netcoreapp3.0/planheist.deps.json
+/Users/ellieash/workspace/planheist/bin/Debug/netcoreapp3.0/planheist.runtimeconfig.json
+/Users/ellieash/workspace/planheist/bin/Debug/netcoreapp3.0/planheist.runtimeconfig.dev.json
+/Users/ellieash/workspace/planheist/bin/Debug/netcoreapp3.0/planheist.dll
+/Users/ellieash/workspace/planheist/bin/Debug/netcoreapp3.0/planheist.pdb
+/Users/ellieash/workspace/planheist/obj/Debug/netcoreapp3.0/planheist.csprojAssemblyReference.cache
+/Users/ellieash/workspace/planheist/obj/Debug/netcoreapp3.0/planheist.AssemblyInfoInputs.cache
+/Users/ellieash/workspace/planheist/obj/Debug/netcoreapp3.0/planheist.AssemblyInfo.cs
+/Users/ellieash/workspace/planheist/obj/Debug/netcoreapp3.0/planheist.dll
+/Users/ellieash/workspace/planheist/obj/Debug/netcoreapp3.0/planheist.pdb
